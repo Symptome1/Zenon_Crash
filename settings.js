@@ -8,7 +8,7 @@ global.ownernomer = "22555236730"
 global.ownername = "zetsu"
 global.ytname = "Toxxic Md"
 global.socialm = "GitHub: Toxic1239"
-global.location = "Africa, Nigeria, Lagos"
+global.location = "Africa"
 
 global.ownernumber = '22555236730'  //creator number
 global.ownername = 'zetsu-md' //owner name
